@@ -1,6 +1,7 @@
 # Mass-Ping
 Ping large ranges of ip addresses and make a record of responsive host. 
 
+# About
 
 Generate an ip range, one ip per line and paste to input.txt
 Run script to ping the ip and if responsive append save to results text file
